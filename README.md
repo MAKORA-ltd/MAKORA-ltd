@@ -4,7 +4,7 @@
 
 
 
->- 👋 Hi, I’m @MAKORA-ltd 👌
+>*- 👋 Hi, I’m @MAKORA-ltd 👌*
 >- 👀 I’m interested in coding for fun and discovering
 >- 🌱 I’m currently learning everything i can found 😆
 >- 💞️ I’m looking to collaborate on evry project i would like 😜
