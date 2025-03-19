@@ -1,3 +1,8 @@
+![img](https://files.catbox.moe/pbrj18.jpg)
+
+
+
+
 - 👋 Hi, I’m @MAKORA-ltd 👌
 - 👀 I’m interested in coding for fun and discovering
 - 🌱 I’m currently learning everything i can found 😆
@@ -15,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![img](https://files.catbox.moe/dhob6k.jpg)  
-![img](https://files.catbox.moe/pbrj18.jpg)
+
